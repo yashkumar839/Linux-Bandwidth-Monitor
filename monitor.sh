@@ -1,7 +1,7 @@
 #!/bin/bash
 
 INTERFACE="${1}"
-LOG_FILE="$HOME/bandwidth-monitor/log/log/bandwidth.log"
+LOG_FILE="$HOME/bandwidth-monitor/log/bandwidth.log"
 INTERVAL=1
 
 RED='\033[0;31m'
